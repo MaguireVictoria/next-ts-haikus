@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Enunciado
+
+Increiblemente el enunciado no esta aqui, para llegar a ël, por el momento, tenes que hacer click [aquí](https://auspicious-sunfish-a4d.notion.site/Arquitectura-Front-17abcb537a2b4342bd046b21fa86acff)
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 

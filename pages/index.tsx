@@ -1,7 +1,8 @@
 import type { NextPage } from "next";
+import Header from "../src/layout/Header";
 
-const Home: NextPage = () => {
+const App: NextPage = () => {
   return <h1>Haikus</h1>;
 };
 
-export default Home;
+export default App;

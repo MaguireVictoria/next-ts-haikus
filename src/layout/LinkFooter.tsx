@@ -1,6 +1,6 @@
-import "./LinkFooter.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { IconDefinition } from "@fortawesome/free-solid-svg-icons";
+import styles from "./LinkFooter.module.css"
 
 interface Props {
 	icono: IconDefinition;
@@ -9,9 +9,9 @@ interface Props {
 
 const LinkFooter = ({ icono, texto }: Props) => {
   return (
-    <div className="ContenedorLinkFooter">
-      <FontAwesomeIcon icon={icono} className="IconoLinkFooter" />
-      <div className="TextoLinkFooter">{texto}</div>
+    <div className={styles.Contenedor}>
+      <FontAwesomeIcon className={styles.Icono} icon={icono} />
+      <div className={styles.Texto}> {texto}</div>
     </div>
   );
 };

@@ -1,0 +1,10 @@
+.PieDePagina {
+    height: 60px;
+    background-color: var(--rosa-claro);
+    position: fixed ;
+    bottom: 0vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

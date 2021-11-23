@@ -1,0 +1,16 @@
+.Contenedor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.Icono{
+    color:white;
+}
+
+.Texto{
+    color: white;
+}
